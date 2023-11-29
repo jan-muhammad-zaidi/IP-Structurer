@@ -10,5 +10,7 @@ Simple and easy-to-use.
 
 # Usage
 Provide the path to your input file containing unstructured IPs.
+
 Run the script.
+
 Retrieve the structured IPs in the specified output file.
